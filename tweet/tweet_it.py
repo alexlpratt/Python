@@ -36,4 +36,4 @@ class API_Handler(object):
 
 if __name__ == "__main__":
   tweeter = API_Handler()
-  tweeter.tweet('Test')
+  tweeter.tweet('Tweet tweet!')
